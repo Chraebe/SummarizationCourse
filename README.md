@@ -1,6 +1,8 @@
 # Summarization Course Assignment
 Authors: Christian Aebeloe and Olivier Pelgrin
+
 Emails: {caebel,olivier}@cs.aau.dk
+
 Course: RDF Graph Summarization
 
 # Guide
